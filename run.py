@@ -11,7 +11,7 @@ def search_font(name, ext):
     for path in base_path.glob(f"**/*.{ext}"):
         with open(path, "rb") as fp:
             bytes = fp.read()
-            if bytes.find(name.encode()) >= 0:
+            if bytes.find((name + name[0]).encode()) >= 0:
                 return path
 
 
