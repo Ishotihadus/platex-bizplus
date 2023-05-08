@@ -1,0 +1,80 @@
+
+% TEXT, 90JIS
+hminl-h	H	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+hminl-v	V	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+hminr-h	H	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+hminr-v	V	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+hminb-h	H	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+hminb-v	V	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+hgothr-h	H	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+hgothr-v	V	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+hgothb-h	H	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+hgothb-v	V	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+hgotheb-h	H	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+hgotheb-v	V	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+hmgothr-h	H	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+hmgothr-v	V	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+
+% TEXT, JIS04
+hminln-h	H	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+hminln-v	V	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+hminrn-h	H	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+hminrn-v	V	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+hminbn-h	H	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+hminbn-v	V	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+hgothrn-h	H	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+hgothrn-v	V	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+hgothbn-h	H	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+hgothbn-v	V	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+hgothebn-h	H	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+hgothebn-v	V	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+hmgothrn-h	H	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+hmgothrn-v	V	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+
+% CID
+otf-cjml-h	Identity-H	:0:BIZ-UDReimin-Light.ttc/AJ16 %!PS BIZ-UDReimin-Light
+otf-cjml-v	Identity-V	:0:BIZ-UDReimin-Light.ttc/AJ16 %!PS BIZ-UDReimin-Light
+otf-cjmr-h	Identity-H	:0:BIZ-UDReimin.ttc/AJ16 %!PS BIZ-UDReimin
+otf-cjmr-v	Identity-V	:0:BIZ-UDReimin.ttc/AJ16 %!PS BIZ-UDReimin
+otf-cjmb-h	Identity-H	:0:BIZ-UDReimin-Bold.ttc/AJ16 %!PS BIZ-UDReimin-Bold.ttc
+otf-cjmb-v	Identity-V	:0:BIZ-UDReimin-Bold.ttc/AJ16 %!PS BIZ-UDReimin-Bold.ttc
+otf-cjgr-h	Identity-H	:0:BIZ-UDShinGo-Medium.ttc/AJ16 %!PS BIZ-UDShinGo-Medium
+otf-cjgr-v	Identity-V	:0:BIZ-UDShinGo-Medium.ttc/AJ16 %!PS BIZ-UDShinGo-Medium
+otf-cjgb-h	Identity-H	:0:BIZ-UDShinGo-Bold.ttc/AJ16 %!PS BIZ-UDShinGo-Bold
+otf-cjgb-v	Identity-V	:0:BIZ-UDShinGo-Bold.ttc/AJ16 %!PS BIZ-UDShinGo-Bold
+otf-cjge-h	Identity-H	:0:BIZ-UDShinGo-Heavy.ttc/AJ16 %!PS BIZ-UDShinGo-Heavy
+otf-cjge-v	Identity-V	:0:BIZ-UDShinGo-Heavy.ttc/AJ16 %!PS BIZ-UDShinGo-Heavy
+otf-cjmgr-h	Identity-H	:0:BIZ-UDShinMGo.ttc/AJ16 %!PS BIZ-UDShinMGo
+otf-cjmgr-v	Identity-V	:0:BIZ-UDShinMGo.ttc/AJ16 %!PS BIZ-UDShinMGo
+
+% Unicode 90JIS
+otf-ujml-h	UniJIS-UTF16-H	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+otf-ujml-v	UniJIS-UTF16-V	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+otf-ujmr-h	UniJIS-UTF16-H	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+otf-ujmr-v	UniJIS-UTF16-V	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+otf-ujmb-h	UniJIS-UTF16-H	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+otf-ujmb-v	UniJIS-UTF16-V	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+otf-ujgr-h	UniJIS-UTF16-H	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+otf-ujgr-v	UniJIS-UTF16-V	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+otf-ujgb-h	UniJIS-UTF16-H	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+otf-ujgb-v	UniJIS-UTF16-V	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+otf-ujge-h	UniJIS-UTF16-H	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+otf-ujge-v	UniJIS-UTF16-V	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+otf-ujmgr-h	UniJIS-UTF16-H	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+otf-ujmgr-v	UniJIS-UTF16-V	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+
+% Unicode JIS04
+otf-ujmln-h	UniJIS2004-UTF16-H	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+otf-ujmln-v	UniJIS2004-UTF16-V	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+otf-ujmrn-h	UniJIS2004-UTF16-H	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+otf-ujmrn-v	UniJIS2004-UTF16-V	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+otf-ujmbn-h	UniJIS2004-UTF16-H	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+otf-ujmbn-v	UniJIS2004-UTF16-V	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+otf-ujgrn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+otf-ujgrn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+otf-ujgbn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+otf-ujgbn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+otf-ujgen-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+otf-ujgen-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+otf-ujmgrn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+otf-ujmgrn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo

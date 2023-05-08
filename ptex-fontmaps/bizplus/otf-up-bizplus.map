@@ -1,0 +1,32 @@
+
+% TEXT, 90JIS
+uphminl-h	UniJIS-UTF16-H	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+uphminl-v	UniJIS-UTF16-V	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+uphminr-h	UniJIS-UTF16-H	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+uphminr-v	UniJIS-UTF16-V	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+uphminb-h	UniJIS-UTF16-H	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+uphminb-v	UniJIS-UTF16-V	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+uphgothr-h	UniJIS-UTF16-H	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+uphgothr-v	UniJIS-UTF16-V	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+uphgothb-h	UniJIS-UTF16-H	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+uphgothb-v	UniJIS-UTF16-V	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+uphgotheb-h	UniJIS-UTF16-H	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+uphgotheb-v	UniJIS-UTF16-V	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+uphmgothr-h	UniJIS-UTF16-H	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+uphmgothr-v	UniJIS-UTF16-V	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+
+% TEXT, JIS04
+uphminln-h	UniJIS2004-UTF16-H	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+uphminln-v	UniJIS2004-UTF16-V	:0:BIZ-UDReimin-Light.ttc %!PS BIZ-UDReimin-Light
+uphminrn-h	UniJIS2004-UTF16-H	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+uphminrn-v	UniJIS2004-UTF16-V	:0:BIZ-UDReimin.ttc %!PS BIZ-UDReimin
+uphminbn-h	UniJIS2004-UTF16-H	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+uphminbn-v	UniJIS2004-UTF16-V	:0:BIZ-UDReimin-Bold.ttc %!PS BIZ-UDReimin-Bold.ttc
+uphgothrn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+uphgothrn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinGo-Medium.ttc %!PS BIZ-UDShinGo-Medium
+uphgothbn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+uphgothbn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinGo-Bold.ttc %!PS BIZ-UDShinGo-Bold
+uphgothebn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+uphgothebn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinGo-Heavy.ttc %!PS BIZ-UDShinGo-Heavy
+uphmgothrn-h	UniJIS2004-UTF16-H	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
+uphmgothrn-v	UniJIS2004-UTF16-V	:0:BIZ-UDShinMGo.ttc %!PS BIZ-UDShinMGo
